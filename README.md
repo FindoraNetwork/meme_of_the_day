@@ -1,4 +1,4 @@
-This is the tutorial from [DApp University](https://www.dappuniversity.com/) which is configured to work on harmony blockchain.
+This is the tutorial from [DApp University](https://www.dappuniversity.com/) which is configured to work on Findora blockchain.
 
 Steps
 * `npm install`
